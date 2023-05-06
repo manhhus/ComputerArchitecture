@@ -1,0 +1,32 @@
+màn hình LCD ra đời năm 1990
+Nguyên lý hoạt động của màn hình LCD
+Màn hình LCD hoạt động dựa trên nguyên tắc ánh sáng nền, bao gồm một lớp chất lỏng nằm giữa 2 lớp kính phân cực ánh sáng. Đèn nền có vai trò cung cấp nguồn sáng phía sau màn hình. Ánh sáng này bị phân cực, hay có thể hiểu là chỉ một phần ánh sáng chiếu qua lớp tinh thể lỏng. Các tinh thể lỏng này được tạo thành từ một phần chất rắn, một phần chất lỏng và có thể "xoắn" khi dòng điện chạy qua. Các tinh thể lỏng sẽ chặn ánh sáng phân cực khi chúng tắt, nhưng lại phản xạ các loại ánh sáng đỏ, lục hoặc lam khi được kích hoạt. Nói một cách dễ hiểu, LCD sử dụng đèn nền và các pixel được bật và tắt điện tử trong khi các tinh thể lỏng để xoay ánh sáng phân cực, từ đó có thể tạo ra hình ảnh.
+
+- TN
+Màn hình TN (Twisted Nematic) là loại màn hình được sử dụng phổ biến nhất trong sản xuất LCD. TN thường rẻ hơn và cung cấp thời gian phản hồi tuyệt vời, rất lý tưởng để chơi game có nhịp độ nhanh. Thời gian phản hồi của các tấm TN hiện tại có thể đạt mức thấp nhất là 1ms. Tuy nhiên, nhược điểm lớn nhất của nó là có khả năng tái tạo màu sắc, góc nhìn và tỷ lệ tương phản kém nhất so với bất kỳ công nghệ màn hình LCD hiện đại nào.
+
+Công nghệ VA (Vertical Alignment) mang lại khả năng tái tạo màu tốt hơn và góc nhìn rộng hơn so với TN, nhưng lại có thời gian phản hồi chậm hơn. Chúng cũng cho góc nhìn lớn và khả năng tái tạo màu sắc tốt, mặc dù không bằng IPS. Thời gian phản hồi của VA thường kém hơn so với TN hoặc IPS và đã có báo cáo về một số tấm nền VA bị độ trễ đầu vào, vì vậy công nghệ VA thường không phải là lựa chọn tốt nhất để chơi game tốc độ nhanh.
+
+Công nghệ TFT (Thin Film Transistor – bóng bán dẫn dạng phim mỏng) bắt đầu được đưa vào smartphone vào năm 2005, có khả năng tái tạo màu tốt hơn và độ phân giải hình ảnh cao hơn so với các màn hình LCD thế hệ trước đó.
+Do chi phí sản xuất màn hình TFT đã giảm đáng kể từ sau 2005, công nghệ màn hình này đã xuất hiện phổ biến trên điện thoại cơ bản và smartphone giá thấp.
+Tuy nhiên, điểm yếu của màn hình TFT-LCD là góc nhìn không rộng. Điều này nghĩa là bạn phải nhìn thẳng vào màn hình mới thấy được hình ảnh rõ nét. Bên cạnh đó, tiêu hao pin của màn hình TFT-LCD khá cao khi so sánh với những công nghệ màn hình mới gần đây.
+
+IPS (In Plane Switching) được coi là công nghệ LCD tổng thể tốt nhất nhờ vào chất lượng hình ảnh, độ chính xác màu sắc và góc nhìn. Chúng rất phù hợp cho thiết kế đồ họa và các ứng dụng khác đòi hỏi khả năng tái tạo màu sắc nhất quán và chính xác. Màn hình IPS mang đến góc nhìn tốt nhất so với bất kỳ công nghệ nào của LCD hiện nay, với góc nhìn rộng lên đến 178 độ.
+
+Sự khác biệt giữa màn hình LCD và LED là gì?
+Xét về mặt kỹ thuật, cả LED (Light Emitting Diode) và LCD đều là màn hình tinh thể lỏng. Cả hai công nghệ này đều có hai lớp kính phân cực, qua đó các tinh thể lỏng vừa chặn và vừa truyền ánh sáng. Vì vậy, có thể nói LED là một tập hợp con của LCD. Tuy nhiên, hai loại màn hình này cũng có sự khác biệt khá rõ ràng:
+- LED hay còn gọi là “điốt phát quang”, khác với LCD thông thường ở chỗ LCD sử dụng đèn huỳnh quang trong khi đèn LED sử dụng các điốt phát sáng đó. Bên cạnh đó, màn hình LED chạy với hiệu suất năng lượng cao hơn và có thể cung cấp hình ảnh rõ ràng hơn, đẹp hơn so với LCD thông thường.
+- Đèn LED có tuổi thọ cao hơn (khoảng 100.000 giờ) trong khi LCD có tuổi thọ khoảng 75.000 giờ.
+- So với LCD thì Đèn LED có chất lượng hình ảnh tốt hơn vì chúng được lắp đặt bánh xe màu RGB, tạo ra hình ảnh sắc nét và trung thực hơn.
+- Màn hình LED tiêu thụ ít điện năng hơn. Chúng cũng có thể hoạt động với các nguồn năng lượng thấp và tương thích với máy phát điện và tấm pin mặt trời, khiến chúng tiết kiệm năng lượng hơn từ 20 đến 30% so với LCD.
+- Đèn LED sáng hơn và có độ tương phản tốt hơn nên đây hẳn sẽ lựa chọn tuyệt vời để chơi game. Nhưng bù lại, chúng có giá thành đắt hơn nên nếu bạn muốn tiết kiệm thì việc chơi game bằng màn hình LCD cũng chẳng có vấn đề gì cả.
+-----
+Màn hình tinh thể lỏng 16 x 2 là một mô-đun LCD cơ bản được sử dụng trong các dự án và mạch điện tử DIY. Trong mô-đun LCD này, có hai hàng, mỗi hàng bao gồm mười sáu số. Với hai hàng trong mô-đun này, có mười sáu cột. Điện áp hoạt động của nó là 4.7 volts đến 5.3 volts. và sử dụng dòng điện một milliampere để vận hành
+Màn hình tinh thể lỏng thường được sử dụng trong các dự án nhúng khác nhau do chi phí thấp, dễ truy cập và tính linh hoạt để lập trình.
+Hầu hết mọi thiết bị điện tử mà chúng ta thấy hàng ngày như điện thoại di động, máy tính và một số thiết bị khác.
+Trong màn hình tinh thể lỏng này, có ba mươi hai ký tự và mỗi ký tự bao gồm 5 x 8 pixel. => tổng 1280pixel
+có 2 chế độ bốn và tám bit.
+Nó hiển thị đèn nền màn hình có hai màu xanh lá cây và xanh dương
+
+----
+Raspberry Pi là một loạt các máy tính mạch đơn nhỏ được phát triển tại Vương quốc Anh bởi Raspberry Pi Foundation phối hợp với Broadcom. Raspberry Pi là một máy tính kích thước thẻ tín dụng giá rẻ có thể cắm vào màn hình máy tính hoặc TV và sử dụng bàn phím và chuột tiêu chuẩn. Đây là một thiết bị nhỏ gọn có khả năng cho phép mọi người khám phá lĩnh vực máy tính và học cách lập trình bằng các ngôn ngữ như Scratch và Python. Dự án Raspberry Pi ban đầu hướng đến việc khuyến khích giáo dục khoa học máy tính cơ bản trong các trường học
